@@ -39,7 +39,9 @@ Match the level to the category. Every level is assertive; they differ in firmne
 - **Other** — Default to moderate, respectful directness. Read the situation from the text and the stated intent.
 
 **Professional**
-- **Peers** — Collaborative but clearly direct. State your position and ask without hedging; keep it cooperative, not combative. Moderate-to-high firmness.
+- **Peers** — Collaborative and gently direct. State the situation and the ask plainly, but keep the tone warm and cooperative — a gentle request, not a command. Open by naming the facts (what's missing, the deadline), make the ask specific, state what's needed as an expectation on the work rather than a demand on the person, and close with an offer to unblock. Crucially, **never finger-point**: don't assign blame for the delay, don't call anyone out, don't imply they dropped the ball. Put the deadline on the task, not on a person. Moderate firmness with high warmth.
+
+  *Model:* "Hi team — two cells are still blank and the deadline is tomorrow. Please fill in A32 and B64, then review your entries. These need to be completed by EOD today. Let me know if anything's blocking you." Notice: states the gap without blaming, makes the ask concrete, puts the deadline on the work ("these need to be completed"), and offers help. That's the target register for a gentle peer request.
 - **Stakeholders** — Polished, confident, diplomatic. Lead with the point, stay composed and high-status, give the reader room while holding your line. Highest firmness, but always diplomatic and respectful.
 
 Let the **intent** tune within the level: a "persuade" rewrite builds a case and stakes; a "defend" rewrite stands its ground calmly; an "argue" rewrite states the disagreement directly without attacking the person; a "decline" rewrite gives a clean no.
@@ -51,6 +53,7 @@ Apply assertive technique, tuned to the level and intent:
 - **Lead with the point.** The need, view, or no goes near the top, not buried under preamble.
 - **Own it with "I" framing.** "I need," "I think," "I've decided" — not "you always," "you never," "you made me." "I" asserts; accusatory "you" attacks.
 - **Name behavior and impact, not character.** Describe what happened and how it affects you, never a verdict on who they are.
+- **Never finger-point.** Don't assign blame for what went wrong, call anyone out, or imply the reader dropped the ball — even subtly. Put problems on the task or the situation, not on a person. "Two cells are still blank" beats "you still haven't filled these in." This holds at every assertiveness level.
 - **Cut the self-erasure.** Remove hedges and softeners that delete the message — but only as the context calls for it; there's no fixed kill-list. Keep a genuine thank-you or a warranted apology when it's real; drop the reflexive ones that signal guilt.
 - **Make requests as requests.** Direct asks, not hints.
 - **Stay warm and respectful.** Assertive isn't cold. Acknowledge the other side where it fits, then hold your position. Firm content, kind tone.
