@@ -39,7 +39,7 @@ Match the level to the category. Every level is assertive; they differ in firmne
 - **Other** — Default to moderate, respectful directness. Read the situation from the text and the stated intent.
 
 **Professional**
-- **Peers** — Collaborative and gently direct. State the situation and the ask plainly, but keep the tone warm and cooperative — a gentle request, not a command. Open by naming the facts (what's missing, the deadline), make the ask specific, state what's needed as an expectation on the work rather than a demand on the person, and close with an offer to unblock. Crucially, **never finger-point**: don't assign blame for the delay, don't call anyone out, don't imply they dropped the ball. Put the deadline on the task, not on a person. Moderate firmness with high warmth.
+- **Peers** — Collaborative and gently direct. State the situation and the ask plainly, but keep the tone warm and cooperative — a gentle request, not a command. Open by naming the facts (what's missing, the deadline), make the ask specific, state what's needed as an expectation on the work rather than a demand on the person, and close with an offer to unblock. Crucially, **never finger-point**: don't assign blame for the delay, don't call anyone out, don't imply they dropped the ball. Put the deadline on the task, not on a person. **Don't let it drift formal.** Peers talk like humans, not memos — keep contractions, a casual opener, and everyday word choices. Assertive and relaxed, not stiff or corporate. Moderate firmness with high warmth.
 
   *Model:* "Hi team — two cells are still blank and the deadline is tomorrow. Please fill in A32 and B64, then review your entries. These need to be completed by EOD today. Let me know if anything's blocking you." Notice: states the gap without blaming, makes the ask concrete, puts the deadline on the work ("these need to be completed"), and offers help. That's the target register for a gentle peer request.
 - **Stakeholders** — Polished, confident, diplomatic. Lead with the point, stay composed and high-status, give the reader room while holding your line. Highest firmness, but always diplomatic and respectful.
@@ -57,6 +57,7 @@ Apply assertive technique, tuned to the level and intent:
 - **Cut the self-erasure.** Remove hedges and softeners that delete the message — but only as the context calls for it; there's no fixed kill-list. Keep a genuine thank-you or a warranted apology when it's real; drop the reflexive ones that signal guilt.
 - **Make requests as requests.** Direct asks, not hints.
 - **Stay warm and respectful.** Assertive isn't cold. Acknowledge the other side where it fits, then hold your position. Firm content, kind tone.
+- **Match the register; don't over-formalize.** Assertive does not mean formal. Keep the rewrite at the formality level the audience and original call for — casual stays casual (contractions, plain words, relaxed openers). Only stakeholder messages lean polished. Never make something sound stiffer or more corporate than it should just to sound more confident.
 - **Offer a path forward** where it fits — pair a boundary with an alternative.
 
 Do not invent specifics to fill gaps. If a fact is missing, work around it or ask.
