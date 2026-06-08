@@ -39,8 +39,6 @@ Before writing a single reply, study everything and form a read. Look at:
 - **The interplay** — where her photos and words agree or contradict, and what the overall vibe adds up to.
 - **The conversation** — her reply speed and length relative to his, who's carrying it, whether she asks questions back, where the energy is rising or fading.
 
-Then load writing craft: read `~/.claude/writing-best-practices.md` using the Read tool and apply its principles on hook, concision, voice, and cutting filler. If it doesn't exist, proceed and note it at the end.
-
 ## Step 3 — Deliver
 
 Lead with **Who she is** — 3–6 tight bullets: your read on her personality, what she's looking for, how she's responding to him, and the single best thread to pull. Mark genuine inference as inference; don't overclaim.
