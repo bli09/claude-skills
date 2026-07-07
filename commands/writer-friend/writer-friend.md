@@ -21,7 +21,7 @@ Ask the user these three questions in a single message. Wait for their full resp
 
 ## Step 2 — Load best practices
 
-Read `~/.claude/writing-best-practices.md` using the Read tool. Apply its principles to every decision about structure, tone, voice, and format. If the file doesn't exist, proceed without it and note this to the user at the end.
+Read `~/.claude/commands/writer-friend/writing-best-practices.md` using the Read tool. Apply its principles to every decision about structure, tone, voice, and format. If the file doesn't exist, proceed without it and note this to the user at the end.
 
 ## Step 3 — Write the piece
 
@@ -60,4 +60,4 @@ When the user returns with an outcome, append an entry to `~/.claude/feedback-lo
 **What worked:** [the user's observation about why]
 ```
 
-When the user asks to "review feedback log," read `~/.claude/feedback-log.md` using the Read tool, identify patterns that appear at least twice, and propose specific edits to `~/.claude/writing-best-practices.md`. Do not propose changes for patterns that appear only once.
+When the user asks to "review feedback log," read `~/.claude/feedback-log.md` using the Read tool, identify patterns that appear at least twice, and propose specific edits to `~/.claude/commands/writer-friend/writing-best-practices.md`. Do not propose changes for patterns that appear only once.
