@@ -93,3 +93,7 @@ On an outcome, append to `~/.claude/dating-log.md`:
 ```
 
 When he asks to "review dating log," read it, find patterns that appear at least twice, and propose specific adjustments. Never conclude from a single match.
+
+## Update this skill
+
+At the end of every run, ask: "Want me to fold anything from this session back into the skill itself? (e.g. a rule, a preference, a phrase that worked)" If he says yes, propose the specific edits to this skill file (`dating-expert.md`) — show the exact before → after — and apply them only after he approves. If he says no, stop.
