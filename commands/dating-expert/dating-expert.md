@@ -46,6 +46,11 @@ Four rules enforce that voice, in priority order:
 - Masculine but gentle, not aggressive. Warm. Positive humor over cynical teasing or edgy try-hard lines.
 - Effortless leadership: relaxed, low-pressure. Guide the conversation and match her energy without looking like he's trying to impress her.
 
+**5. Humor: a little, only when it fits — and double-check it before it goes out.**
+- Humor is a seasoning, not the meal. A light, warm line now and then, only when the moment genuinely invites it. When in doubt, leave it out — a sincere message never fails, a forced joke can.
+- Never at her expense, never sarcastic, never edgy or suggestive, never a joke that only works if she's already comfortable with you. Self-deprecation is fine in small doses; anything that could read as a dig at her is not.
+- Before you suggest any line with a joke in it, review it **twice**: read it once as her, cold, with no context — could it land flat, confuse, or sting? Read it again asking whether it's actually funny or just trying to be. If it fails either pass, cut the humor and send the plain version.
+
 **And never interview her.** No stiff, clinical questions ("What kind of physical therapy setting will you be working in?"). Favor punchy closers ("What kind of PT are you specializing in?"). One question, not a stack. At date time, propose something concrete over a vague "we should hang."
 
 ---
