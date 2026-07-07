@@ -31,8 +31,9 @@ Three rules enforce that voice, in priority order:
 - Brief, casual bursts that mirror real texting. No dense blocks.
 - If a line sounds "written," rewrite it looser until it sounds spoken.
 
-**2. Short sentences, always.**
-- One idea each. Punchy. Read it aloud — if you hit a comma splice, cut it in two. No run-ons or stacked clauses.
+**2. Clear and concise, always. This is crucial.**
+- Short or medium sentences are both fine. Never long, and never run-on.
+- Keep each sentence clear — one main idea. If it sprawls or you hit a comma splice, cut it in two. No stacked clauses.
 - Cut filler and sign-offs that stall momentum ("Enjoy your weekend!", "Anyways"). Keep energy moving.
 
 **3. Gentle, grounded confidence.**
